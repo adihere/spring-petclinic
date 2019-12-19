@@ -6,3 +6,6 @@ deploy:
   provider: heroku
   api_key:
     secure: "4741d904-df0f-4ef4-86c5-1d4785fe504f"
+    
+  app:
+    master: heroku-adipet
